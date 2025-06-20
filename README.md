@@ -1,4 +1,5 @@
-#📈 Stock Market Forecasting using ARIMA
+## 📈 Stock Market Forecasting using ARIMA
+
 This is a Streamlit-based web application that forecasts future stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. It allows users to input custom ARIMA parameters, select stocks, and define forecast horizons. The app also evaluates forecasting accuracy and provides export options in CSV, PDF, and DOCX formats.
 
 🔧 Features
